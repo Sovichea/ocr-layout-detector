@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+.DS_Store
